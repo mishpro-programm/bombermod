@@ -21,9 +21,9 @@
             "_":"<b>Bomber</b> 1.35<br><br>- Added services for 🇷🇺 and removed many non-working ones.<br>- Optimization and various bug fixes."
         },
         "directUrl":"https://github.com/wavteam/static/raw/main/122.apk",
-        "onlyDirect":false,
+        "onlyDirect":true,
         "telegramUrl":"https://t.me/app_cloud_bot?start=122",
-        "versionCode":122
+        "versionCode":123
     },
     "config":{
         "repeatsVisible":true,
@@ -36,7 +36,7 @@
     "stories":[
         {
             "preview": "https://github.com/wavteam/static/assets/53375304/78bc91a2-738c-4da1-91f7-56d95763406f",
-            "maxVersionCode": 130,
+            "maxVersionCode": 1,
             "pages": [
                 {
                     "buttonCaption": "Обновить",
