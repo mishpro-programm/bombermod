@@ -1,17 +1,17 @@
 {
     "advertising":{
         "active":true,
-        "activeUnmissable":false,
+        "activeUnmissable":true,
         "button":{
-            "_":"Telegram"
+            "_":"TRAVIS STORE"
         },
         "html":true,
         "description":{
             "_":"Сочнейший магазин Travis Store 👕\nЗдесь вы найдете ★Оригинальные брендовые вещи по удалитварительной цене!🥰\n★Качественные копии!\n★Реплики все для вас!\n^-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-^"
         },
-        "image":"https://www.ixbt.com/img/n1/news/2023/2/5/nwOtx-2000x1200_large.jpg",
-        "url":"https://t.me/mishpro",
-        "seconds":0
+        "image":"https://img1.teletype.in/files/8c/52/8c5264ca-0f3c-4735-bb21-051dad79a978.jpeg",
+        "url":"https://t.me/Travis_Sstore",
+        "seconds":1
     },
     "updates":{
         "important":true,
