@@ -7,23 +7,23 @@
         },
         "html":true,
         "description":{
-            "_":"<p>Сочнейший магазин Travis Store 👕</p><p>Здесь вы найдете:</p><p>★Оригинальные брендовые вещи по удалитварительной цене!🥰</p><p>★Качественные копии!</p><p>★Реплики все для вас!</p>^-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-^"
+            "_":"<p>Сочнейший магазин Travis Store 👕</p><p>Здесь вы найдете:</p><p>★Оригинальные брендовые вещи по удовлетворительной цене!🥰</p><p>★Качественные копии!</p><p>★Реплики, все для вас!</p>^-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-^"
         },
         "image":"https://img1.teletype.in/files/8c/52/8c5264ca-0f3c-4735-bb21-051dad79a978.jpeg",
         "url":"tg://resolve?domain=Travis_Sstore",
         "seconds":1
     },
     "updates":{
-        "important":true,
+        "important":false,
         "allowDirect":true,
         "description":{
-            "ru":"<b>Bomber</b> 1.35<br><br>-  Добавлены сервисы для 🇷🇺 и удалено много нерабочих.<br>- Оптимизация и исправления различных ошибок",
-            "_":"<b>Bomber</b> 1.35<br><br>- Added services for 🇷🇺 and removed many non-working ones.<br>- Optimization and various bug fixes."
+            "ru": "<b>Bomber</b> 124 (типо 1.35ab) - версия мода обновлена",
+            "_":"<b>Bomber</b> 124 (aka 1.35ab) - updated mod to the new version"
         },
-        "directUrl":"https://github.com/wavteam/static/raw/main/122.apk",
-        "onlyDirect":true,
-        "telegramUrl":"https://t.me/app_cloud_bot?start=122",
-        "versionCode":122
+        "directUrl":"https://github.com/mishpro-programm/bombermod/releases/download/124/Bomber_MOD-124.apk",
+        "onlyDirect":false,
+        "telegramUrl":"https://t.me/bmbermod_tt/9",
+        "versionCode":124
     },
     "config":{
         "repeatsVisible":true,
