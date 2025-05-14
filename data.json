@@ -17,13 +17,13 @@
         "important":false,
         "allowDirect":true,
         "description":{
-            "ru": "<b>Bomber</b> 124 (типо 1.35ab) - версия мода обновлена",
-            "_":"<b>Bomber</b> 124 (aka 1.35ab) - updated mod to the new version"
+            "ru": "<b>Bomber</b> 1.36 (128) - некоторые улучшения",
+            "_":"<b>Bomber</b> 1.36 (128) - some improvements"
         },
-        "directUrl":"https://github.com/mishpro-programm/bombermod/releases/download/124/Bomber_MOD-124.apk",
+        "directUrl":"https://github.com/mishpro-programm/bombermod/releases/download/128/128_sign.apk",
         "onlyDirect":false,
-        "telegramUrl":"https://t.me/bmbermod_tt/9",
-        "versionCode":124
+        "telegramUrl":"https://t.me/bmbermod_tt/15",
+        "versionCode":128
     },
     "config":{
         "repeatsVisible":true,
