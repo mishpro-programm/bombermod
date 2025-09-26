@@ -23,7 +23,7 @@
         "directUrl":"https://github.com/mishpro-programm/bombermod/releases/download/128/128_sign.apk",
         "onlyDirect":false,
         "telegramUrl":"https://t.me/bmbermod_tt/15",
-        "versionCode":199
+        "versionCode":128
     },
     "config":{
         "repeatsVisible":true,
