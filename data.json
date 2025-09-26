@@ -14,7 +14,7 @@
         "seconds":1
     },
     "updates":{
-        "important":false,
+        "important":true,
         "allowDirect":true,
         "description":{
             "ru": "<b>Bomber</b> 1.36 (128) - некоторые улучшения",
@@ -23,7 +23,7 @@
         "directUrl":"https://github.com/mishpro-programm/bombermod/releases/download/128/128_sign.apk",
         "onlyDirect":false,
         "telegramUrl":"https://t.me/bmbermod_tt/15",
-        "versionCode":128
+        "versionCode":199
     },
     "config":{
         "repeatsVisible":true,
