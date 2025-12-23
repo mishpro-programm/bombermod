@@ -30,8 +30,32 @@
         "donateAvailable":true,
         "sourceCodeAvailable":true,
         "donateUrl":"https://www.donationalerts.com/r/mishpro",
-        "dripAttackPercentage":4,
-        "dripAttackTTL":15
+        "autoAcceptSubscribeChannel": true,
+        "subscribeChannelUrl": "https://t.me/+5AOrvfYKBHhkODEy",
+        "telegramUrl": "https://t.me/+0P9S2JO9_Tc2NjY6",
+        "telegramTitle": "t.me/bmbermod_tt",
+        "shareText": "Bomber MOD - https://t.me/bmbermod_tt"
+    },
+    "patches":[
+        {
+            "hasKey": "141",
+            "minVersionCode": 141,
+            "actions": [
+                "ENABLE_SNOWFALL"
+            ],
+            "keys": [
+                {
+                    "name": "browser_attacks",
+                    "value": true,
+                    "type": "BOOLEAN"
+                }
+            ]
+        }
+    ],
+    "attack":{
+        "dripAttackTTL": 24,
+        "dripAttackPercentage": 1,
+        "delayPerService": 1
     },
     "stories":[
         {
