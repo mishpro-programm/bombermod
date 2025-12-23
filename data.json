@@ -1,6 +1,6 @@
 {
     "advertising":{
-        "active":false,
+        "active":true,
         "activeUnmissable":false,
         "button":{
             "_":"TRAVIS STORE"
